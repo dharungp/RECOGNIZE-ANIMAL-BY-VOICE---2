@@ -1,0 +1,31 @@
+div{
+    background-color:cadetblue;
+    color: white;
+    text-align: center;
+}
+ body{
+    background-color:#e6e6e6;
+ }
+.sound{
+    font-family: 'Dancing Script', cursive;
+    font-family: 'Sacramento', cursive;
+}
+.Start{
+    background-color: white;
+    border-radius: 10px;
+    height: 30px;
+    border: #4c85e6 2px solid;
+    transition: 0.3s;
+    color: #4c85e6;
+}
+
+.Start:hover{
+    background-color: white;
+    border-radius: 10px;
+    height: 30px;
+    border: #4c85e6 2px solid;
+    background-color: #4c85e6;
+    color: white;
+    transform: translateY(-10px);
+    
+}
